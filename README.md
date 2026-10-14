@@ -2,7 +2,7 @@
 - 👀 I’m interested in Arduino, 3D printing, databases, and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on C, C++, Python, and AI projects
-- 📫 How to reach me: [venomnet@proton.me](mailto:venomnet@proton.me)
+- 📫 How to reach me: [underground@ik.me](mailto:underground@ik.me)
 
 <!---
 venomnet-1/venomnet-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
