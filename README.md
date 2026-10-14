@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @venomnet-1
-- 👀 I’m interested in Arduino,  3D Printing and Databases
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on C, C++,  
+- 👋 Hi, I’m venomnet
+- 👀 I’m interested in Arduino, 3D printing, databases, and AI
+- 🌱 I’m currently learning AI
+- 💞️ I’m looking to collaborate on C, C++, Python, and AI projects
 - 📫 How to reach me ...
 
 <!---
